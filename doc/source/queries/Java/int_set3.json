@@ -1,0 +1,5 @@
+{
+  "title":"¿Qué es la Interfaz Set?",
+  "url":"https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java/",
+  "body":"TreeSet: esta implementación almacena los elementos ordenándolos en función de sus valores. Es bastante más lento que HashSet. Los elementos almacenados deben implementar la interfaz Comparable. Esta implementación garantiza, siempre, un rendimiento de log(N) en las operaciones básicas, debido a la estructura de árbol empleada para almacenar los elementos."
+}

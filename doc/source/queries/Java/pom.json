@@ -1,0 +1,5 @@
+{
+  "title":"¿Para qué sirve un pom.xml y qué relación tiene con Maven?",
+  "url":"https://www.javanicaragua.org/2019/09/21/introduccion-a-maven-primeros-pasos/",
+  "body":"pom.xml (Project Object Model por su siglas en ingles) es un archivo xml el cual es utilizado por maven entre otras cosas, para especificar configuración de dependencias del proyecto, los parámetros de compilación, los perfiles de compilación, etc."
+}

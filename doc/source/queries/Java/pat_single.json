@@ -1,0 +1,5 @@
+{
+  "title":"¿Qué es el patrón singleton?",
+  "url":"https://experto.dev/patron-de-diseno-java-singleton/",
+  "body":"El objetivo es que una clase sólo tenga una instancia viva y garantizar que esto suceda."
+}

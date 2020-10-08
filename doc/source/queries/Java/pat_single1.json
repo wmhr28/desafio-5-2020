@@ -1,0 +1,5 @@
+{
+  "title":"¿Qué es el patrón singleton?",
+  "url":"https://experto.dev/patron-de-diseno-java-singleton/",
+  "body":"EL patrón de diseño singleton nos asegura que solo un objeto sea creado y que solo exista una sola instancia del objeto para la clase."
+}

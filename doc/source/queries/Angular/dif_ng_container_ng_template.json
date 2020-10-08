@@ -1,0 +1,5 @@
+{
+  "title":"¿Cuál es la diferencia entre ng-container y ng-template en Angular?",
+  "url":"https://profile.es/blog/angular-templates-las-directivas-ng-template-ng-container-y-ngtemplateoutlet/",
+  "body":"ng-template: Representa, tal y como se intuye en su nombre, una template de Angular. El contenido de esta etiqueta contendrá una parte de una template que luego se puede reutilizar y añadirse a otras templates para formar la template de un componente, en cambio, ng-container: Renderiza lo que contiene o bien un template, también puede renderizar templates dinámicamente."
+}

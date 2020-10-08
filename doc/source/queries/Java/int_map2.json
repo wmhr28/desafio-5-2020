@@ -1,0 +1,5 @@
+{
+  "title":"¿Qué es la Interfaz Map?",
+  "url":"https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java/",
+  "body":"TreeMap: esta implementación almacena las claves ordenándolas en función de sus valores. Es bastante más lento que HashMap. Las claves almacenadas deben implementar la interfaz Comparable. Esta implementación garantiza, siempre, un rendimiento de log(N) en las operaciones básicas, debido a la estructura de árbol empleada para almacenar los elementos."
+}

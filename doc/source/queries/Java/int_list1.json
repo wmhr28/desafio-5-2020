@@ -1,0 +1,5 @@
+{
+  "title":"¿Qué es la Interfaz List?",
+  "url":"https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java/",
+  "body":"ArrayList: esta es la implementación típica. Se basa en un array redimensionable que aumenta su tamaño según crece la colección de elementos. Es la que mejor rendimiento tiene sobre la mayoría de situaciones."
+}

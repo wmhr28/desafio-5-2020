@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9f17175-5048-4de4-9ad9-ef1fec40a095" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Angular/componentes0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Angular/componentes1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Angular/dif_ng_container_ng_template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Angular/directiva0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Angular/directiva1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Angular/modulo0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Angular/patron1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Angular/servicio0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Angular/servicio2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/dif_abstracta_interfaz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/dif_abstracta_interfaz1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_list1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_list2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_map1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_map2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_map3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_set.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_set1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_set2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_set3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_set4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/int_set5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/orden_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/orden_collection1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/orden_collection2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/pat_single.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/pat_single1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/pat_single2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/pat_single_how.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/pat_single_how1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/pat_single_how2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/pat_strategy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/pat_strategy1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/pat_strategy2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/pat_strategy3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/source/queries/Java/pom.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1990350518">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="86" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="84" />
+          <entry key="tsconfig" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="json" value="289" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="289" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/directiva0.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/directiva1.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="506" selection-start-line="3" selection-start-column="419" selection-end-line="3" selection-end-column="506" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/orden_collection.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="90" selection-start-line="3" selection-start-column="90" selection-end-line="3" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set1.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="156" selection-start-line="3" selection-start-column="156" selection-end-line="3" selection-end-column="156" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set2.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set3.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="368" selection-start-line="3" selection-start-column="368" selection-end-line="3" selection-end-column="368" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set4.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="152" selection-start-line="3" selection-start-column="152" selection-end-line="3" selection-end-column="152" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set5.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="98" selection-start-line="3" selection-start-column="98" selection-end-line="3" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_list.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="91" selection-start-line="3" selection-start-column="91" selection-end-line="3" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>En Java List es una lista simplemente enlazada que permite repetidos</find>
+      <find>os componentes son un tipo de directiv</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\wm_herrera\Documents\GitHub\desafio-5-2020\doc\source\queries</dir>
+      <dir>C:\Users\wm_herrera\Documents\GitHub\desafio-5-2020\doc\source\queries\Angular</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/doc/source/queries/tsconfig.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/componentes.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/directiva0.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/directiva1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/servicio0.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/servicio1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/servicio2.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/modulo0.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/modulo1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/patron1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/patron0.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/dif_ng_container_ng_template.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/dif_abstracta_interfaz.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/dif_abstracta_interfaz1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/orden_collection.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/orden_collection1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/orden_collection2.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_map.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_map1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_map2.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_map3.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_set.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_set1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_set2.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_set3.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_set4.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_set5.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_list.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_list1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_list2.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/int_list3.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/pat_single.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/pat_single1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/pat_single2.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/pat_single_how.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/pat_single_how2.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/pat_single_how1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/pat_strategy1.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/pat_strategy.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/pat_strategy2.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/pat_strategy3.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Java/pom.json" />
+        <option value="$PROJECT_DIR$/doc/source/queries/Angular/componentes1.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="y" value="1" />
+    <option name="width" value="1378" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="desafio-5-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="desafio-5-2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desafio-5-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="desafio-5-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desafio-5-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="desafio-5-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desafio-5-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="desafio-5-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desafio-5-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="desafio-5-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="queries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desafio-5-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="desafio-5-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="queries" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desafio-5-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="desafio-5-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="queries" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wm_herrera\Documents\GitHub\desafio-5-2020\doc\source\queries\Angular" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wm_herrera\Documents\GitHub\desafio-5-2020\doc\source\queries\Java" />
+      <recent name="C:\Users\wm_herrera\Documents\GitHub\desafio-5-2020\doc\source\queries\Angular" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9f17175-5048-4de4-9ad9-ef1fec40a095" name="Default Changelist" comment="" />
+      <created>1599576532323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599576532323</updated>
+      <workItem from="1599576533879" duration="1379000" />
+      <workItem from="1599595239358" duration="599000" />
+      <workItem from="1600054233796" duration="14167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16145000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18133047" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doc/source/dataset/que_es_angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/servicio2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/servicio1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/patron0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="111" selection-start-line="2" selection-start-column="111" selection-end-line="2" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/servicio0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/modulo1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="72" lean-forward="true" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/orden_collection1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/orden_collection2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="299" selection-start-line="3" selection-start-column="299" selection-end-line="3" selection-end-column="299" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_map1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="490" selection-start-line="3" selection-start-column="490" selection-end-line="3" selection-end-column="490" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_map2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_map3.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="149" selection-start-line="3" selection-start-column="149" selection-end-line="3" selection-end-column="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_map.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="88" selection-start-line="2" selection-start-column="88" selection-end-line="2" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_list1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="218" selection-start-line="3" selection-start-column="218" selection-end-line="3" selection-end-column="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_list2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="259" selection-start-line="3" selection-start-column="259" selection-end-line="3" selection-end-column="259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_list3.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="78" selection-start-line="3" selection-start-column="78" selection-end-line="3" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/pat_single.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="98" selection-start-line="3" selection-start-column="98" selection-end-line="3" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/pat_single1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="144" selection-start-line="3" selection-start-column="144" selection-end-line="3" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/pat_single2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/pat_single_how2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="96" selection-start-line="3" selection-start-column="96" selection-end-line="3" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/pat_single_how1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/pat_single_how.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/pat_strategy1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="63" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/pat_strategy.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="63" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/pat_strategy2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="257" selection-start-line="3" selection-start-column="257" selection-end-line="3" selection-end-column="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/pat_strategy3.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/pom.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="258" lean-forward="true" selection-start-line="3" selection-start-column="258" selection-end-line="3" selection-end-column="258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/componentes1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/componentes0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/modulo0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="128" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/patron1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/dif_ng_container_ng_template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/dif_abstracta_interfaz1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/dif_abstracta_interfaz.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/orden_collection.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="90" selection-start-line="3" selection-start-column="90" selection-end-line="3" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="156" selection-start-line="3" selection-start-column="156" selection-end-line="3" selection-end-column="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set3.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="368" selection-start-line="3" selection-start-column="368" selection-end-line="3" selection-end-column="368" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set4.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="152" selection-start-line="3" selection-start-column="152" selection-end-line="3" selection-end-column="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_set5.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="98" selection-start-line="3" selection-start-column="98" selection-end-line="3" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Java/int_list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="91" selection-start-line="3" selection-start-column="91" selection-end-line="3" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/directiva0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/source/queries/Angular/directiva1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="506" selection-start-line="3" selection-start-column="419" selection-end-line="3" selection-end-column="506" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

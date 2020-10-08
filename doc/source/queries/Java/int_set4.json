@@ -1,0 +1,5 @@
+{
+  "title":"¿Qué es la Interfaz Set?",
+  "url":"https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java/",
+  "body":"LinkedHashSet: esta implementación almacena los elementos en función del orden de inserción. Es, simplemente, un poco más costosa que HashSet."
+}

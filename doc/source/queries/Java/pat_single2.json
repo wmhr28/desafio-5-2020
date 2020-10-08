@@ -1,0 +1,5 @@
+{
+  "title":"¿Qué es el patrón singleton?",
+  "url":"https://experto.dev/patron-de-diseno-java-singleton/",
+  "body":"Cada vez que necesitemos el objeto obtendremos la misma instancia."
+}

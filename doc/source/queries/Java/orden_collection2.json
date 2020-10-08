@@ -1,0 +1,5 @@
+{
+  "title":"¿Cómo se ordena una colección de objetos en java?",
+  "url":"https://www.oscarblancarteblog.com/2017/02/28/ordenar-listas-en-java/",
+  "body":"Java 8 ofrece una forma muchos más simple de ordenar los objetos utilizado Lamba Expresión, por lo cual en lugar de crear un Comparator, solo definimos la estrategia para comparar los objetos, ejemplo: Collections.sort(lstEmployees, (x, y) -> x.getName().compareToIgnoreCase(y.getName()));"
+}

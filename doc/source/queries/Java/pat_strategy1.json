@@ -1,0 +1,5 @@
+{
+  "title":"¿Qué entendes por el patrón de diseño Strategy?",
+  "url":"https://experto.dev/patron-de-diseno-strategy-en-java/",
+  "body":"En el patrón Strategy creamos diferentes clases que representan estrategias y que podremos usar según alguna variación o input."
+}

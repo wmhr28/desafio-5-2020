@@ -1,0 +1,5 @@
+{
+  "title":"¿Qué es una directiva en Angular?",
+  "url":"https://www.acontracorrientech.com/directives-en-angular-guia-practica/",
+  "body":"De hecho, los componentes son un tipo de directiva, ya que cuando usamos el selector de un componente, le estamos pidiendo a Angular que muestre dicho componente (y su lógica de programación) en algún lugar determinado del DOM.Por esta razón, podemos afirmar que los componentes son directives, pero con una template, es decir, con un archivo HTML detrás.Existen otras directivas sin template, como cualquier directive personalizada que podamos crear nosotros mismos (en inglés, custom directive)."
+}

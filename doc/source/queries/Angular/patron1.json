@@ -1,0 +1,5 @@
+{
+  "title":"¿Qué es el patrón redux en Angular?",
+  "url":"https://medium.com/@ogomez/guia-rapida-para-entender-el-patron-redux-y-angular-con-ngrx-e60d39d35f1b",
+  "body":"REDUX es una librería de JavaScript que es el contenedor del estado de tu aplicación, por que básicamente la información de toda tu aplicación se concentra en un solo lugar llamado Store."
+}
